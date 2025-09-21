@@ -133,7 +133,7 @@ The hybrid approach combines:
 ## Results
 
 Each notebook provides:
-- Model performance metrics (MSE, MAE, R²)
+- Model performance metrics
 - Prediction visualizations
 - Feature importance analysis
 - Comparative analysis across counties
